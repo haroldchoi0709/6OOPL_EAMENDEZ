@@ -1,0 +1,10 @@
+c:\users\ericson\documents\visual studio 2015\Projects\FINALS_OOPL\FINALS_OOPL\bin\Debug\FINALS_OOPL.exe.config
+C:\Users\Ericson\documents\visual studio 2015\Projects\FINALS_OOPL\FINALS_OOPL\bin\Debug\FINALS_OOPL.exe
+C:\Users\Ericson\documents\visual studio 2015\Projects\FINALS_OOPL\FINALS_OOPL\bin\Debug\FINALS_OOPL.pdb
+C:\Users\Ericson\documents\visual studio 2015\Projects\FINALS_OOPL\FINALS_OOPL\bin\Debug\mysql.data.dll
+C:\Users\Ericson\documents\visual studio 2015\Projects\FINALS_OOPL\FINALS_OOPL\obj\Debug\FINALS_OOPL.csprojResolveAssemblyReference.cache
+C:\Users\Ericson\documents\visual studio 2015\Projects\FINALS_OOPL\FINALS_OOPL\obj\Debug\FINALS_OOPL.Form1.resources
+C:\Users\Ericson\documents\visual studio 2015\Projects\FINALS_OOPL\FINALS_OOPL\obj\Debug\FINALS_OOPL.Properties.Resources.resources
+C:\Users\Ericson\documents\visual studio 2015\Projects\FINALS_OOPL\FINALS_OOPL\obj\Debug\FINALS_OOPL.csproj.GenerateResource.Cache
+C:\Users\Ericson\documents\visual studio 2015\Projects\FINALS_OOPL\FINALS_OOPL\obj\Debug\FINALS_OOPL.exe
+C:\Users\Ericson\documents\visual studio 2015\Projects\FINALS_OOPL\FINALS_OOPL\obj\Debug\FINALS_OOPL.pdb
